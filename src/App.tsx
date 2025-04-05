@@ -59,8 +59,8 @@ const sections = [
       title: "Technical Skills",
       subtitle: "My Expertise",
       skills: [
-        { category: "Frontend", items: ["React", "TypeScript", "Tailwind CSS","HTML5","CSS3",] },
-        { category: "Backend", items: ["Node.js", "Python", "PostgreSQL","C#","MySQL"] },
+        { category: "Frontend", items: ["React", "TypeScript", "Tailwind CSS","NextJS","HTML5","CSS3",] },
+        { category: "Backend", items: ["Node.js","NextJS", "Python", "PostgreSQL","C#","MySQL"] },
         { category: "DevOps", items: ["GitLab Docker CI/CD  ", "GitLab AWS Integration", "GitLab CI/CD"] }
       ]
     }
